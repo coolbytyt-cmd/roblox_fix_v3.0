@@ -2,11 +2,10 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-orange)
 
-
+by: lzeo
               ROBLOX CDN FIXER
          Автоматический фикс для Roblox
-                   by: lzeo
-============================================================
+                   
 
 📌 ДЛЯ ЧЕГО ЭТОТ ФАЙЛ?
 
@@ -78,6 +77,8 @@ copy "C:\Windows\System32\drivers\etc\hosts.backup" "C:\Windows\System32\drivers
 ! исходный код для bat:
 
 ============================================================
+
+
 @echo off
 chcp 1251 >nul
 title Roblox CDN Fixer

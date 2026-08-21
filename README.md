@@ -1,3 +1,7 @@
+![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?logo=windows)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/version-1.0-orange)
+
 ============================================================
               ROBLOX CDN FIXER
          Автоматический фикс для Roblox

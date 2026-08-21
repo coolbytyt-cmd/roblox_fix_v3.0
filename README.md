@@ -35,5 +35,4 @@
 
 ## Поддержка
 
-Telegram: @lzeo05  
-GitHub: [lzeo05-hub/roblox_fix_2026](https://github.com/lzeo05-hub/roblox_fix_2026)
+Telegram: @lzeo03 

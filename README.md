@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-orange)
 
-============================================================
+
               ROBLOX CDN FIXER
          Автоматический фикс для Roblox
                    by: lzeo

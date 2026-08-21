@@ -1,6 +1,6 @@
 ![Windows](https://img.shields.io/badge/Windows-10%20%7C%2011-blue?logo=windows)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Version](https://img.shields.io/badge/version-1.0-orange)
+![Version](https://img.shields.io/badge/version-3.0-orange)
 # Roblox CDN Fixer by: lzeo!
 
 Простой BAT-файл, который автоматически находит рабочие IP-адреса серверов Roblox и прописывает их в системный файл hosts. Решает проблемы с загрузкой игры, текстурами и аватарами.
